@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! This is Anne Marian Aeschliman's Portfolio, hosted by Github Pages.
+## I hard-coded everything with a template from W3CCS, and used their elements to tweak it exactly how I wanted.
 
 <!--
 **AnneAeschliman/AnneAeschliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
